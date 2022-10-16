@@ -1,2 +1,2 @@
 # ROS-Deep-Learning
-Testing deep learning algorithms on ros
+Testing deep learning algorithms on ROS
