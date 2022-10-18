@@ -1,8 +1,0 @@
-prefix=/home/red/catkin_ws/devel
-
-Name: first_package
-Description: Description of first_package
-Version: 0.0.1
-Cflags: -I/home/red/catkin_ws/devel/include -I/home/red/catkin_ws/src/first_package/include
-Libs: -L${prefix}/lib -lfirst_package
-Requires: roscpp rospy std_msgs message_runtime
